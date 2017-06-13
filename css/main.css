@@ -108,7 +108,7 @@ body {
   background-color: #fff;
   background-position: center center;
   background-size: 100%;
-  background-image: url("../img/quote-cover.png");
+  background-image: url("../img/quote-cover.jpg");
   background-repeat: no-repeat;
 
   /* Minimum height */
@@ -119,7 +119,7 @@ body {
 .cover {
   /* Background styles */
   background-color: #ccc;
-  background-image: url("../img/quote-cover.png");
+  background-image: url("../img/quote-cover.jpg");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -134,7 +134,7 @@ body {
 .cover {
   /* Background styles */
   background-color: #ccc;
-  background-image: url("../img/quote-cover.png");
+  background-image: url("../img/quote-cover.jpg");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -149,7 +149,7 @@ body {
 .cover {
   /* Background styles */
   background-color: #ccc;
-  background-image: url("../img/quote-cover.png");
+  background-image: url("../img/quote-cover.jpg");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -166,7 +166,7 @@ body {
 
   /* Background styles */
   background-color: #ccc;
-  background-image: url("../img/quote-cover.png");
+  background-image: url("../img/quote-cover.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
